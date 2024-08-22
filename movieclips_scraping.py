@@ -97,7 +97,7 @@ def movieclips_scraping():
 			title, query = title_parsing(full_title)
 			full_title = full_title.replace('/', '_')
 			json_dict[full_title] = {"id": id, "year": year, "url": url}
-
+			
 			for pattern in patterns:
 				all = re.findall(patterns[pattern], descriptions, re.IGNORECASE)
 				if len(all):
