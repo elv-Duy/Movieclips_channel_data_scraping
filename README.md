@@ -5,3 +5,5 @@ A script to extract metadata from YouTube's Movieclips channel using a provided 
 ```
 pip install selenium beautifulsoup4 lxml
 ```
+
+## Provided URLs
