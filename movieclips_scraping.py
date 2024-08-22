@@ -95,7 +95,7 @@ def movieclips_scraping():
 
 			json_dict[full_title] = {"id": id, "year": year, "url": url, "title": title, "query": query,
 							"clip_description": '', "film_description": '', "copyright": '',
-							"cast": [], "director": [], "screenwriter": []}
+							"cast": [], "director": [], "producer": [], "screenwriter": []}
 
 			for pattern in patterns:
 				all = re.findall(patterns[pattern], descriptions, re.IGNORECASE)
