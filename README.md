@@ -58,6 +58,7 @@ python movieclips_scraping.py
       "director": [
          "Will Gluck"
       ],
+      "producer": [],
       "screenwriter": [
          "Aline Brosh McKenna",
          "Will Gluck"
@@ -80,6 +81,7 @@ python movieclips_scraping.py
       "director": [
          "Will Gluck"
       ],
+      "producer": [],
       "screenwriter": [
          "Aline Brosh McKenna",
          "Will Gluck"
