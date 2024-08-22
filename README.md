@@ -62,7 +62,6 @@ python movieclips_scraping.py
          "Aline Brosh McKenna",
          "Will Gluck"
       ],
-      "producer": [],
       "display_title": "Annie 2014"
    },
    "Annie (2014) - Stacks Adopts Annie Scene (8_9)": {
@@ -85,7 +84,6 @@ python movieclips_scraping.py
          "Aline Brosh McKenna",
          "Will Gluck"
       ],
-      "producer": [],
       "display_title": "Annie 2014"
    },
   ...
