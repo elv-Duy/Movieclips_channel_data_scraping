@@ -34,6 +34,8 @@ python movieclips_scraping.py
   movieCLIP_dataset_2024.json
   ...
   ```
+
+## Sample Output
 ```
 {
    "Annie (2014) - Tomorrow (Reprise) Scene (9_9)": {
