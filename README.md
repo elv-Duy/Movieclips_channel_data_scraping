@@ -1,12 +1,12 @@
 # Movieclips_channel_data_scraping
-A script to extract metadata from YouTube's Movieclips channel using a provided list of video URLs separated by year of upload
+A script to extract metadata from the Movieclips channel on YouTube, using a provided list of video URLs organized by the year of upload.
 
 ## Installation
 ```
 pip install selenium beautifulsoup4 lxml
 ```
 
-## Provided URLs separated by year of upload
+## URLs Provided by Year of Upload
 ```
 video_info_2020.txt
 video_info_2021.txt
@@ -22,10 +22,11 @@ python movieclips_scraping.py
 ```
 
 ## Process
-* Iterate through each year.
-* For each year, access the corresponding list of URLs.
-* For each URL, scrape the title, query, copyright, clip description, film description, cast, directors, producers, and screenwriters.
-* Store the data in an output JSON file, organized by year.
+* Iterate through each year in the dataset.
+* Access the corresponding list of URLs for each year.
+* For each URL, scrape the following metadata: title, query, copyright, clip description, film description, cast, directors, producers, and screenwriters.
+* Store the extracted data in an output JSON file, organized by year.
+
   ```
   movieCLIP_dataset_2020.json
   movieCLIP_dataset_2021.json
