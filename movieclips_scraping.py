@@ -75,8 +75,7 @@ def movieclips_scraping():
 			if os.path.exists(json_file):
 				with open(json_file, 'r') as file:
 					json_dict = json.load(file)
-			# if len(json_dict) == 10:
-			# 	break
+			
 			if full_title.replace('/', '_') in json_dict:
 				continue
 
