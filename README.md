@@ -43,11 +43,8 @@ python movieclips_scraping.py
       "id": "3-pIrRGYw-o",
       "year": 2020,
       "url": "https://www.youtube.com/watch?v=3-pIrRGYw-o",
-      "title": "Annie (9/9) - 2014",
-      "query": "Tomorrow (Reprise)",
-      "clip_description": "Annie (Quvenzhané Wallis) leads New York in singing \"Tomorrow.\"",
       "film_description": "Ever since her parents left her as a baby, little Annie (Quvenzhané Wallis) has led...",
-      "copyright": "TM & © Sony (2014)",
+      "clip_description": "Annie (Quvenzhané Wallis) leads New York in singing \"Tomorrow.\"",
       "cast": [
          "Cameron Diaz",
          "David Zayas",
@@ -55,37 +52,40 @@ python movieclips_scraping.py
          "Quvenzhané Wallis",
          "Rose Byrne"
       ],
+      "copyright": "TM & © Sony (2014)",
+      "producer": [],
       "director": [
          "Will Gluck"
       ],
-      "producer": [],
       "screenwriter": [
          "Aline Brosh McKenna",
          "Will Gluck"
       ],
+      "title": "Annie (9/9) - 2014",
+      "query": "Tomorrow (Reprise)",
       "display_title": "Annie 2014"
    },
    "Annie (2014) - Stacks Adopts Annie Scene (8_9)": {
       "id": "q-ftYeag-Ss",
       "year": 2020,
       "url": "https://www.youtube.com/watch?v=q-ftYeag-Ss",
-      "title": "Annie (8/9) - 2014",
-      "query": "Stacks Adopts Annie",
-      "clip_description": "Stacks (Jamie Foxx) adopts Annie (Quvenzhané Wallis).",
       "film_description": "Ever since her parents left her as a baby, little Annie (Quvenzhané Wallis) has led...",
-      "copyright": "TM & © Sony (2014)",
+      "clip_description": "Stacks (Jamie Foxx) adopts Annie (Quvenzhané Wallis).",
       "cast": [
          "Jamie Foxx",
          "Quvenzhané Wallis"
       ],
+      "copyright": "TM & © Sony (2014)",
+      "producer": [],
       "director": [
          "Will Gluck"
       ],
-      "producer": [],
       "screenwriter": [
          "Aline Brosh McKenna",
          "Will Gluck"
       ],
+      "title": "Annie (8/9) - 2014",
+      "query": "Stacks Adopts Annie",
       "display_title": "Annie 2014"
    },
   ...
